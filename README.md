@@ -1,5 +1,7 @@
-<h1 align="center">Hi 👋, I'm Satish Ganesan</h1>
+<div>
+  <h1 align="center">Hi 👋, I'm Satish Ganesan</h1>
 <h3 align="center">A passionate Full Stack Developer</h3>
+  </div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=satish8798&label=Profile%20views&color=0e75b6&style=flat" alt="satish8798" /> </p>
 
