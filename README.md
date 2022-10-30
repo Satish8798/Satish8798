@@ -1,4 +1,4 @@
-<div>
+<div style="background-color:grey;">
   <h1 align="center">Hi 👋, I'm Satish Ganesan</h1>
 <h3 align="center">A passionate Full Stack Developer</h3>
   </div>
