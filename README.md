@@ -13,7 +13,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1bPgZpK-y8p4JUSOY2gVKv-9irpMxyYj5/view](https://drive.google.com/file/d/1bPgZpK-y8p4JUSOY2gVKv-9irpMxyYj5/view)
 
-- ⚡ Fun fact **I think I can make things really workout well...**
+- ⚡ Fun fact **I always misspell the word function as fucntion **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
