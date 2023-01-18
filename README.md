@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **ganesansatishm7@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1bPgZpK-y8p4JUSOY2gVKv-9irpMxyYj5/view](https://drive.google.com/file/d/1bPgZpK-y8p4JUSOY2gVKv-9irpMxyYj5/view)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1xdD07Uyd7zlw1P8kAnECUAOWPcZcyFGm/view?usp=share_link)
 
 - ⚡ Fun fact **I always misspell the word function as fucntion **
 
