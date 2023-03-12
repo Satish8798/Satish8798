@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **ganesansatishm7@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1r3UnzIgIDujFbC4bMcAJHP1qgrGqk9YC/view?usp=share_link](https://drive.google.com/file/d/1r3UnzIgIDujFbC4bMcAJHP1qgrGqk9YC/view?usp=share_link)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1kcQi2wuw8K05KafOIPzJ70FGfnMAWhCt/view?usp=share_link](https://drive.google.com/file/d/1kcQi2wuw8K05KafOIPzJ70FGfnMAWhCt/view?usp=share_link)
 
 - ⚡ Fun fact **I mispell the word 'function' with 'fucntion' every time.**
 
